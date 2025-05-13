@@ -1,2 +1,3 @@
-# PRODIGY_ML_02
-K-MEANS
+
+# K-MEANS
+Dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
